@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[nfa:home|Door43 (nfa)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-nfa|d43-nfa repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-nfa/archive/master.zip|d43-nfa.zip]]
+
+**Recent Changes**
+{{changes>ns = nfa}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/nfa|Ethnologue data]]
+
